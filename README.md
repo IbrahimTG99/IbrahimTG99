@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Algorithm analysis and research.
 - 📫 How to reach me you can reach me on [LinkedIn](https://www.linkedin.com/in/ibrahim-tariq-690583189/).
 
-[![@ibrahimtg99's Holopin board](https://holopin.me/ibrahimtg99)](https://holopin.io/@ibrahimtg99)
+[![An image of @ibrahimtg99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ibrahimtg99)](https://holopin.io/@ibrahimtg99)
 
 <!---
 IbrahimTG99/IbrahimTG99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
