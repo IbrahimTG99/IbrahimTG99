@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbrahimTG99
 - 👀 I’m interested in Algorithms.
-- 🌱 I’m currently working as an Android developer at Devsinc.
+- 🌱 I’m currently working as an Android developer at .Intent.
 - 💞️ I’m looking to collaborate on Algorithm analysis and research.
 - 📫 How to reach me you can reach me on [LinkedIn](https://www.linkedin.com/in/ibrahim-tariq-android/).
 
